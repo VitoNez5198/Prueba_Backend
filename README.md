@@ -21,9 +21,9 @@ Operaciones CRUD de cafés
   - √ debe devolver un código 201 al agregar un nuevo café con POST a /cafes (18 ms)
   - √ debe devolver un status code 400 al intentar actualizar un café con id diferente al especificado en PUT a /cafes/:id (5 ms)
 
-- Test Suites: 1 passed, 1 total
-- Tests:       4 passed, 4 total
-- Snapshots:   0 total
-- Time:        0.971 s
+* Test Suites: 1 passed, 1 total
+* Tests:       4 passed, 4 total
+* Snapshots:   0 total
+* Time:        0.971 s
 
 Ran all test suites.
