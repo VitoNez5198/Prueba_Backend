@@ -16,6 +16,7 @@ café enviando un id en los parámetros que sea diferente al id dentro del paylo
 
   PASS  tests/server.spec.js
   Operaciones CRUD de cafés
+  
     √ debe devolver un status code 200 y un arreglo con al menos 1 objeto al hacer una solicitud GET a /cafes (40 ms)               
     √ debe devolver un código 404 al intentar eliminar un café inexistente con DELETE a /cafes/:id (5 ms)                           
     √ debe devolver un código 201 al agregar un nuevo café con POST a /cafes (18 ms)                                                
